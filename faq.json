@@ -1,0 +1,109 @@
+{
+  "faq": [
+    {
+      "id": 1,
+      "categoria": "informacion_general",
+      "pregunta": "¿Qué es el Colegio Calasanz Buenavista?",
+      "palabras_clave": ["que es", "colegio", "calasanz", "información", "institución"],
+      "respuesta": "El Colegio Calasanz Buenavista es una Institución Educativa Distrital (IED) pública ubicada en el barrio Buenos Aires, Ciudad Bolívar, Bogotá. Forma parte de la red de colegios Calasanz que educan bajo el lema 'Piedad y Letras', siguiendo los principios pedagógicos de San José de Calasanz."
+    },
+    {
+      "id": 2,
+      "categoria": "ubicacion_contacto",
+      "pregunta": "¿Dónde está ubicado el colegio?",
+      "palabras_clave": ["ubicación", "dirección", "donde queda", "localización"],
+      "respuesta": "El colegio está ubicado en la Carrera 17F # 77 – 75 SUR, en el barrio Buenos Aires, localidad de Ciudad Bolívar, Bogotá D.C."
+    },
+    {
+      "id": 3,
+      "categoria": "ubicacion_contacto",
+      "pregunta": "¿Cuál es el teléfono del colegio?",
+      "palabras_clave": ["teléfono", "contacto", "llamar", "número"],
+      "respuesta": "El número de teléfono del colegio es: 601 7920388"
+    },
+    {
+      "id": 4,
+      "categoria": "matriculas",
+      "pregunta": "¿Cuándo son las matrículas?",
+      "palabras_clave": ["matrículas", "inscripciones", "cuando", "fechas", "proceso"],
+      "respuesta": "Las matrículas se realizan según el cronograma establecido por la Secretaría de Educación de Bogotá. Para información específica sobre fechas y requisitos, puedes contactar al colegio al 601 7920388 o visitar directamente las instalaciones."
+    },
+    {
+      "id": 5,
+      "categoria": "admisiones",
+      "pregunta": "¿Cómo puedo inscribir a mi hijo?",
+      "palabras_clave": ["inscribir", "admisiones", "como", "proceso", "requisitos"],
+      "respuesta": "Para el proceso de admisiones debes seguir los lineamientos de la Secretaría de Educación Distrital. Te recomendamos contactar directamente al colegio para conocer los requisitos específicos y el proceso de inscripción."
+    },
+    {
+      "id": 6,
+      "categoria": "academico",
+      "pregunta": "¿Qué niveles educativos ofrece el colegio?",
+      "palabras_clave": ["niveles", "grados", "preescolar", "primaria", "bachillerato"],
+      "respuesta": "Como institución educativa distrital, el Colegio Calasanz Buenavista ofrece educación desde preescolar hasta educación media (grado 11). Para información específica sobre cada nivel, contacta al colegio."
+    },
+    {
+      "id": 7,
+      "categoria": "horarios",
+      "pregunta": "¿Cuáles son los horarios de atención?",
+      "palabras_clave": ["horarios", "atención", "cuando abren", "funcionamiento"],
+      "respuesta": "Para conocer los horarios específicos de atención administrativa y académica, te recomendamos contactar directamente al colegio al teléfono 601 7920388."
+    },
+    {
+      "id": 8,
+      "categoria": "filosofia",
+      "pregunta": "¿Cuál es la filosofía educativa del colegio?",
+      "palabras_clave": ["filosofía", "misión", "visión", "principios", "calasanz"],
+      "respuesta": "El colegio sigue los principios pedagógicos de San José de Calasanz, educando bajo el lema 'Piedad y Letras'. Esto significa formar integralmente a niños, niñas y jóvenes, combinando la educación académica con valores cristianos y humanos."
+    },
+    {
+      "id": 9,
+      "categoria": "red_colegios",
+      "pregunta": "¿Forman parte de una red de colegios?",
+      "palabras_clave": ["red", "otros colegios", "calasanz", "instituciones"],
+      "respuesta": "Sí, el Colegio Calasanz Buenavista forma parte de una amplia red de colegios Calasanz que incluye instituciones en Bogotá, Medellín, Pereira, Cúcuta, y otros países como Ecuador y Perú."
+    },
+    {
+      "id": 10,
+      "categoria": "documentos",
+      "pregunta": "¿Qué documentos necesito para la matrícula?",
+      "palabras_clave": ["documentos", "requisitos", "papeles", "matrícula"],
+      "respuesta": "Los documentos requeridos generalmente incluyen: registro civil, documento de identidad, certificados de estudios anteriores, carné de vacunas, EPS, y fotografías. Para la lista completa y actualizada, contacta al colegio."
+    },
+    {
+      "id": 11,
+      "categoria": "costos",
+      "pregunta": "¿Cuánto cuesta estudiar en el colegio?",
+      "palabras_clave": ["costo", "precio", "cuanto cuesta", "gratuito", "pago"],
+      "respuesta": "Como institución educativa distrital pública, la educación es gratuita. Sin embargo, pueden existir costos adicionales para materiales, uniformes o actividades especiales. Consulta directamente con el colegio para más detalles."
+    },
+    {
+      "id": 12,
+      "categoria": "transporte",
+      "pregunta": "¿Cómo llegar al colegio en transporte público?",
+      "palabras_clave": ["transporte", "como llegar", "bus", "público"],
+      "respuesta": "El colegio está ubicado en Ciudad Bolívar. Puedes llegar utilizando el sistema de transporte público TransMilenio y buses urbanos que circulan por la zona. Para rutas específicas, consulta en www.transmilenio.gov.co"
+    },
+    {
+      "id": 13,
+      "categoria": "eventos",
+      "pregunta": "¿Qué eventos especiales realizan?",
+      "palabras_clave": ["eventos", "actividades", "celebraciones", "especiales"],
+      "respuesta": "El colegio realiza diversos eventos durante el año como el Día de la Familia, Día de la Inclusión, actividades deportivas como Neurófilos, y celebraciones especiales siguiendo el calendario académico."
+    },
+    {
+      "id": 14,
+      "categoria": "comunicacion",
+      "pregunta": "¿Cómo me comunico con los profesores?",
+      "palabras_clave": ["comunicación", "profesores", "maestros", "contacto"],
+      "respuesta": "Puedes comunicarte con los profesores a través de la coordinación académica del colegio, llamando al 601 7920388, o mediante las circulares y medios de comunicación oficiales que maneja la institución."
+    },
+    {
+      "id": 15,
+      "categoria": "uniforme",
+      "pregunta": "¿Cuál es el uniforme del colegio?",
+      "palabras_clave": ["uniforme", "vestimenta", "ropa", "dress code"],
+      "respuesta": "Para conocer las especificaciones exactas del uniforme escolar (diario, educación física, gala), te recomendamos contactar directamente al colegio o consultar el manual de convivencia."
+    }
+  ]
+}
